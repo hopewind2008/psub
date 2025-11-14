@@ -1,0 +1,257 @@
+{
+  "version": 1,
+  "proxies": [
+    {
+      "type": "ss",
+      "server": "mdss-hk.04z3susick.download",
+      "port": 12001,
+      "cipher": "aes-128-gcm",
+      "password": "26f86c7d-a9e7-4c01-a0f4-d1b6e5fc9a86",
+      "remark": "碧海☁️ 香港 01 深港",
+      "udp": true
+    },
+    {
+      "type": "ss",
+      "server": "mdss-hk.04z3susick.download",
+      "port": 12002,
+      "cipher": "aes-128-gcm",
+      "password": "26f86c7d-a9e7-4c01-a0f4-d1b6e5fc9a86",
+      "remark": "碧海☁️ 香港 02 深港",
+      "udp": true
+    },
+    {
+      "type": "ss",
+      "server": "mdss-hk.04z3susick.download",
+      "port": 12003,
+      "cipher": "aes-128-gcm",
+      "password": "26f86c7d-a9e7-4c01-a0f4-d1b6e5fc9a86",
+      "remark": "碧海☁️ 香港 03 深港",
+      "udp": true
+    },
+    {
+      "type": "ss",
+      "server": "mdss-hk.04z3susick.download",
+      "port": 12004,
+      "cipher": "aes-128-gcm",
+      "password": "26f86c7d-a9e7-4c01-a0f4-d1b6e5fc9a86",
+      "remark": "碧海☁️ 香港 04 深港",
+      "udp": true
+    },
+    {
+      "type": "ss",
+      "server": "mdss-hk.04z3susick.download",
+      "port": 12005,
+      "cipher": "aes-128-gcm",
+      "password": "26f86c7d-a9e7-4c01-a0f4-d1b6e5fc9a86",
+      "remark": "碧海☁️ 香港 05 深港",
+      "udp": true
+    },
+    {
+      "type": "ss",
+      "server": "mdss-hk.04z3susick.download",
+      "port": 12006,
+      "cipher": "aes-128-gcm",
+      "password": "26f86c7d-a9e7-4c01-a0f4-d1b6e5fc9a86",
+      "remark": "碧海☁️ 香港 06 深港",
+      "udp": true
+    },
+    {
+      "type": "ss",
+      "server": "mdss-hk.04z3susick.download",
+      "port": 12007,
+      "cipher": "aes-128-gcm",
+      "password": "26f86c7d-a9e7-4c01-a0f4-d1b6e5fc9a86",
+      "remark": "碧海☁️ 香港 07 深港",
+      "udp": true
+    },
+    {
+      "type": "ss",
+      "server": "mdss-hk.04z3susick.download",
+      "port": 12008,
+      "cipher": "aes-128-gcm",
+      "password": "26f86c7d-a9e7-4c01-a0f4-d1b6e5fc9a86",
+      "remark": "碧海☁️ 香港 08 深港",
+      "udp": true
+    },
+    {
+      "type": "ss",
+      "server": "mdss-hk.04z3susick.download",
+      "port": 12009,
+      "cipher": "aes-128-gcm",
+      "password": "26f86c7d-a9e7-4c01-a0f4-d1b6e5fc9a86",
+      "remark": "碧海☁️ 香港 09 深港",
+      "udp": true
+    },
+    {
+      "type": "ss",
+      "server": "mdss-hk.04z3susick.download",
+      "port": 12010,
+      "cipher": "aes-128-gcm",
+      "password": "26f86c7d-a9e7-4c01-a0f4-d1b6e5fc9a86",
+      "remark": "碧海☁️ 香港 10 深港",
+      "udp": true
+    },
+    {
+      "type": "ss",
+      "server": "mdss-tw.04z3susick.download",
+      "port": 12029,
+      "cipher": "aes-128-gcm",
+      "password": "26f86c7d-a9e7-4c01-a0f4-d1b6e5fc9a86",
+      "remark": "碧海☁️ 台湾 01 深港",
+      "udp": true
+    },
+    {
+      "type": "ss",
+      "server": "mdss-tw.04z3susick.download",
+      "port": 12030,
+      "cipher": "aes-128-gcm",
+      "password": "26f86c7d-a9e7-4c01-a0f4-d1b6e5fc9a86",
+      "remark": "碧海☁️ 台湾 02 深港",
+      "udp": true
+    },
+    {
+      "type": "ss",
+      "server": "mdss-tw.04z3susick.download",
+      "port": 12031,
+      "cipher": "aes-128-gcm",
+      "password": "26f86c7d-a9e7-4c01-a0f4-d1b6e5fc9a86",
+      "remark": "碧海☁️ 台湾 03 深港",
+      "udp": true
+    },
+    {
+      "type": "ss",
+      "server": "mdss-tw.04z3susick.download",
+      "port": 12032,
+      "cipher": "aes-128-gcm",
+      "password": "26f86c7d-a9e7-4c01-a0f4-d1b6e5fc9a86",
+      "remark": "碧海☁️ 台湾 04 深港",
+      "udp": true
+    },
+    {
+      "type": "ss",
+      "server": "mdss-tw.04z3susick.download",
+      "port": 12033,
+      "cipher": "aes-128-gcm",
+      "password": "26f86c7d-a9e7-4c01-a0f4-d1b6e5fc9a86",
+      "remark": "碧海☁️ 台湾 05 深港",
+      "udp": true
+    },
+    {
+      "type": "ss",
+      "server": "mdss-tw.04z3susick.download",
+      "port": 12034,
+      "cipher": "aes-128-gcm",
+      "password": "26f86c7d-a9e7-4c01-a0f4-d1b6e5fc9a86",
+      "remark": "碧海☁️ 台湾 06 深港",
+      "udp": true
+    },
+    {
+      "type": "ss",
+      "server": "mdss-jp.04z3susick.download",
+      "port": 12011,
+      "cipher": "aes-128-gcm",
+      "password": "26f86c7d-a9e7-4c01-a0f4-d1b6e5fc9a86",
+      "remark": "碧海☁️ 日本 01 深港",
+      "udp": true
+    },
+    {
+      "type": "ss",
+      "server": "mdss-jp.04z3susick.download",
+      "port": 12012,
+      "cipher": "aes-128-gcm",
+      "password": "26f86c7d-a9e7-4c01-a0f4-d1b6e5fc9a86",
+      "remark": "碧海☁️ 日本 02 深港",
+      "udp": true
+    },
+    {
+      "type": "ss",
+      "server": "mdss-jp.04z3susick.download",
+      "port": 12013,
+      "cipher": "aes-128-gcm",
+      "password": "26f86c7d-a9e7-4c01-a0f4-d1b6e5fc9a86",
+      "remark": "碧海☁️ 日本 03 深港",
+      "udp": true
+    },
+    {
+      "type": "ss",
+      "server": "mdss-jp.04z3susick.download",
+      "port": 12014,
+      "cipher": "aes-128-gcm",
+      "password": "26f86c7d-a9e7-4c01-a0f4-d1b6e5fc9a86",
+      "remark": "碧海☁️ 日本 04 深港",
+      "udp": true
+    },
+    {
+      "type": "ss",
+      "server": "mdss-jp.04z3susick.download",
+      "port": 12015,
+      "cipher": "aes-128-gcm",
+      "password": "26f86c7d-a9e7-4c01-a0f4-d1b6e5fc9a86",
+      "remark": "碧海☁️ 日本 05 深港",
+      "udp": true
+    },
+    {
+      "type": "ss",
+      "server": "mdss-jp.04z3susick.download",
+      "port": 12016,
+      "cipher": "aes-128-gcm",
+      "password": "26f86c7d-a9e7-4c01-a0f4-d1b6e5fc9a86",
+      "remark": "碧海☁️ 日本 06 深港",
+      "udp": true
+    },
+    {
+      "type": "ss",
+      "server": "mdss-us.04z3susick.download",
+      "port": 12023,
+      "cipher": "aes-128-gcm",
+      "password": "26f86c7d-a9e7-4c01-a0f4-d1b6e5fc9a86",
+      "remark": "碧海☁️ 美国 01 深港",
+      "udp": true
+    },
+    {
+      "type": "ss",
+      "server": "mdss-us.04z3susick.download",
+      "port": 12024,
+      "cipher": "aes-128-gcm",
+      "password": "26f86c7d-a9e7-4c01-a0f4-d1b6e5fc9a86",
+      "remark": "碧海☁️ 美国 02 深港",
+      "udp": true
+    },
+    {
+      "type": "ss",
+      "server": "mdss-us.04z3susick.download",
+      "port": 12025,
+      "cipher": "aes-128-gcm",
+      "password": "26f86c7d-a9e7-4c01-a0f4-d1b6e5fc9a86",
+      "remark": "碧海☁️ 美国 03 深港",
+      "udp": true
+    },
+    {
+      "type": "ss",
+      "server": "mdss-us.04z3susick.download",
+      "port": 12026,
+      "cipher": "aes-128-gcm",
+      "password": "26f86c7d-a9e7-4c01-a0f4-d1b6e5fc9a86",
+      "remark": "碧海☁️ 美国 04 深港",
+      "udp": true
+    },
+    {
+      "type": "ss",
+      "server": "mdss-us.04z3susick.download",
+      "port": 12027,
+      "cipher": "aes-128-gcm",
+      "password": "26f86c7d-a9e7-4c01-a0f4-d1b6e5fc9a86",
+      "remark": "碧海☁️ 美国 05 深港",
+      "udp": true
+    },
+    {
+      "type": "ss",
+      "server": "mdss-us.04z3susick.download",
+      "port": 12028,
+      "cipher": "aes-128-gcm",
+      "password": "26f86c7d-a9e7-4c01-a0f4-d1b6e5fc9a86",
+      "remark": "碧海☁️ 美国 06 深港",
+      "udp": true
+    }
+  ]
+}
